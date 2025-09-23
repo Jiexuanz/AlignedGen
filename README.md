@@ -63,10 +63,11 @@ This will generate the image shown at the beginning of this README.
 
 ## 🤔 Control & DreamBooth
 
-
 <div align="center">
-  <img src="asset/supp-control.png" width="250" style="display:inline-block; margin:5px;" />
-  <img src="asset/supp-dream.png" width="350" style="display:inline-block; margin:5px;" />
+  <img src="asset/supp-control.png" width="275" style="" />
+</div>
+<div align="center">
+  <img src="asset/supp-dream.png" width="300" style="" />
 </div>
 
 ## ✏️ To Do List

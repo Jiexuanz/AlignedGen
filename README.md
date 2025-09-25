@@ -86,26 +86,18 @@ This will generate the image shown at the beginning of this README.
 We appreciate the releasing codes of [StyleAligned](https://github.com/google/style-aligned)
 and [Diffusers](https://github.com/huggingface/diffusers).
 
-[//]: # (## Citation)
+## Citation
 
-[//]: # (If our work assists your research, feel free to give us a star ⭐ or cite us using:)
+If our work assists your research, feel free to give us a star ⭐ or cite us using:
 
-[//]: # ()
-[//]: # (```)
-
-[//]: # (@article{zhang2025alignedgen,)
-
-[//]: # (  title={AlignedGen: Aligning Style Across Generated Images}, )
-
-[//]: # (  author={Jiexuan Zhang and Yiheng Du and Qian Wang and Weiqi Li and Yu Gu and Jian Zhang},)
-
-[//]: # (  journal={arXiv preprint arXiv:2509.17088},)
-
-[//]: # (  year={2025})
-
-[//]: # (})
-
-[//]: # (```)
+```
+@article{zhang2025alignedgen,
+  title={AlignedGen: Aligning Style Across Generated Images},
+  author={Zhang, Jiexuan and Du, Yiheng and Wang, Qian and Li, Weiqi and Gu, Yu and Zhang, Jian},
+  journal={arXiv preprint arXiv:2509.17088},
+  year={2025}
+}
+```
 
 [//]: # ()
 [//]: # (---)

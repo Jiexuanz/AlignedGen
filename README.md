@@ -1,6 +1,6 @@
 <div align="center">
 
-# [NIPS 2025🔥] AlignedGen: Aligning Style Across Generated Images
+# [NeurIPS 2025🔥] AlignedGen: Aligning Style Across Generated Images
 
 [![Project Website](https://img.shields.io/badge/🌐-Project%20Website-deepgray)](https://jiexuanz.github.io/AlignedGen/)
 [![arXiv](https://img.shields.io/badge/arXiv-2509.17088-b31b1b.svg)](https://arxiv.org/abs/2509.17088 )
